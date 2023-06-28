@@ -1,0 +1,15 @@
+package tpsi1022.app.viaturas;
+
+public interface Label {
+    String TITLE = "Menu Viatura";
+
+    String DO_INSERT_VIATURA = "Inseir viatura";
+
+    String DO_SHOW_VIATURA = "Mostrar viatura";
+
+    String DO_LIST_VIATURAS = "Listar todas as viaturas";
+
+    String DO_Delete_VIATURA = "Apagar viatura";
+
+    String DO_EDIT_VIATURA = "Editar viatura";
+}
